@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\Release\Бюро знакомств.vcxprojAssemblyReference.cache
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\Release\Бюро_знакомств.DeletePotencialMarried.resources
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\Release\Бюро_знакомств.Form1.resources
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\Release\Бюро_знакомств.GeneratinPair.resources
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\Release\Бюро_знакомств.Married.resources
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\Release\Бюро_знакомств.NewPotencialMarried.resources
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\Release\Бюро_знакомств.ViewPotencialMarried.resources
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\Release\Бюро знакомств.vcxproj.GenerateResource.cache

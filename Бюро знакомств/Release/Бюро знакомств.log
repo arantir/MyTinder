@@ -1,0 +1,17 @@
+﻿cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  AssemblyInfo.cpp
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\AssemblyInfo.cpp(40,29): warning C4947: System::Security::Permissions::SecurityAction::RequestMinimum: помечен как устаревший
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\AssemblyInfo.cpp(40,29): message : Сообщение: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
+  DeletePotencialMarried.cpp
+  Married.cpp
+  NewPotencialMarried.cpp
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\NewPotencialMarried.h(398,23): warning C4101: ex: неиспользованная локальная переменная
+  Sample.cpp
+C:\Users\User\source\repos\MyTinder\Бюро знакомств\NewPotencialMarried.h(398,23): warning C4101: ex: неиспользованная локальная переменная
+  ViewPotencialMarried.cpp
+  Создание кода...
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  Бюро знакомств.vcxproj -> C:\Users\User\source\repos\MyTinder\Release\Бюро знакомств.exe
